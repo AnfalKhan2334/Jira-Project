@@ -1,0 +1,8 @@
+body{
+    background-color: #ccc;
+}
+
+nav{
+    display: flex;
+    gap: 20px;
+  }
